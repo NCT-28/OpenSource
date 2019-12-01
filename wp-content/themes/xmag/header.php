@@ -47,7 +47,7 @@
 							
 							<?php $description = get_bloginfo( 'description', 'display' ); ?>
 							<?php if ( $description || is_customize_preview() ) { ?>
-									<p class="site-description"><?php echo $description; ?></p>
+									<p class="site-description"><?php echo "Nhóm ..... " ?></p>
 							<?php } ?>
 						</div>
 					</div>
