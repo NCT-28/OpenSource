@@ -1,0 +1,13 @@
+[01/Dec/2019:04:44:11] (ℹ️): WordPress Instance Info:
+[01/Dec/2019:04:44:11] (ℹ️): Home URL : http://localhost:8080/OpenSource
+[01/Dec/2019:04:44:11] (ℹ️): Site URL : http://localhost:8080/OpenSource
+[01/Dec/2019:04:44:11] (ℹ️): WordPress Version : 5.3
+[01/Dec/2019:04:44:11] (ℹ️): Onboarding Version : 1.7.10
+[01/Dec/2019:04:44:11] (ℹ️): Multisite : No
+[01/Dec/2019:04:44:11] (ℹ️): Server Info : Apache/2.4.41 (Win64) OpenSSL/1.0.2s PHP/7.1.33
+[01/Dec/2019:04:44:11] (ℹ️): PHP Version : 7.1.33
+[01/Dec/2019:04:44:11] (ℹ️): HTTPS : No
+[01/Dec/2019:04:44:11] (ℹ️): PHP Max Execution Time : 120
+[01/Dec/2019:04:44:11] (ℹ️): PHP Max Input Vars : 1000
+[01/Dec/2019:04:44:11] (ℹ️): Max Upload Size : 41943040
+[01/Dec/2019:04:44:11] (ℹ️): Plugins:
